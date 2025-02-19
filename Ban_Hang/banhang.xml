@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OnlineStore>
+    <Product>
+        <Name>Paper</Name>
+        <InventoryID>F12333</InventoryID>
+        <UnitPrice>4.55</UnitPrice>
+        <StockBin>B123</StockBin>
+    </Product>
+</OnlineStore>
